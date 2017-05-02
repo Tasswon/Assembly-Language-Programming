@@ -1,4 +1,4 @@
-TITLE Question Two				(QuestionTwo.asm)
+TITLE Expression Evaluation			(QuestionTwo.asm)
 ;DESCRIPTION: User enters values and the answer to the
 ;equation "((A + B) / C) * ((D - A) + E)" calculates.
 

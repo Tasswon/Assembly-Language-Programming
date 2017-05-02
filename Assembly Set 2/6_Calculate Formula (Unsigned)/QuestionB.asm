@@ -1,4 +1,4 @@
-TITLE QuestionB		(Question.asm)
+TITLE Calculate Formula (Unsigned)					(QuestionB.asm)
 ;NAME: Joseph Tassone
 ;DESCRIPTION: The program calculates the following formula using unsigned operands: val1 = (val2 * val3) / (val4 - 3)
 

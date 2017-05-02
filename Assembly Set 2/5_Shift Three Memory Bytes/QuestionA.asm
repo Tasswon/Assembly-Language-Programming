@@ -1,4 +1,4 @@
-TITLE QuestionA			(QuestionA.asm)
+TITLE Shift Three Mem Bytes					(QuestionA.asm)
 ;NAME: Joseph Tassone
 ;DESCRIPTION: Shifts all three memory bytes to the right by 1 position
 

@@ -1,4 +1,4 @@
-TITLE QuestionB					(QuestionB.asm)
+TITLE Change String Casing				(QuestionB.asm)
 ; A user entered string has its even letters turned into capitals
 ; and it's odd letters turned into lowercase. Both renditions are
 ; printed to an output file.

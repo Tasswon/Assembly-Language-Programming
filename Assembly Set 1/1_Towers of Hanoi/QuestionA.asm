@@ -1,4 +1,4 @@
-TITLE QuestionA					(QuestionA.asm)
+TITLE Towers of Hanoi					(QuestionA.asm)
 ; The program recursively solves the Towers of Hanoi problem 
 ; using the users input value.
 

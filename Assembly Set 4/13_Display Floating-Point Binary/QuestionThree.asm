@@ -1,4 +1,4 @@
-TITLE Question Three				(QuestionThree.asm)
+TITLE Display Floating Point Binary		(QuestionThree.asm)
 ;DESCRIPTION: Receives a single-precision floating point binary
 ;value and displays it in scientific notation. Before the program
 ;completes, the special cases are printed as well.

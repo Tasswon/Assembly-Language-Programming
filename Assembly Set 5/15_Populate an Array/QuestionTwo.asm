@@ -1,4 +1,4 @@
-TITLE Question Two		(QuestionTwo.asm)
+TITLE Populate an Array		(QuestionTwo.asm)
 ;DESCRIPTION: Program takes an empty array and addS values to it 
 ;by using random numbers, addition, multiplication, and division.
 

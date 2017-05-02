@@ -1,4 +1,4 @@
-TITLE QuestionC			(QuestionC.asm)
+TITLE Calculate Formula (Signed)					(QuestionC.asm)
 ;DESCRIPTION: The program calculates the following formula using signed operands: val1 = (val2 / val3) * (val1 + val2)
 
 INCLUDE Irvine32.inc

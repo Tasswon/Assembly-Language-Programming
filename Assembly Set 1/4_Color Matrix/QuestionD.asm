@@ -1,4 +1,4 @@
-TITLE QuestionD					(QuestionD.asm)
+TITLE Color Matrix					(QuestionD.asm)
 ; Asks the user for a starting text color, background color,
 ; and string. The program prints a 16 by 16 grid of incremented
 ; letters, with each row containing a different background color

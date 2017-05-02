@@ -1,4 +1,4 @@
-TITLE QuestionE			(QuestionE.asm)
+TITLE Calculate nMody					(QuestionE.asm)
 ;DESCRIPTION: The program calculates x = n mod y , using only SUB, MOV, AND
 
 INCLUDE Irvine32.inc

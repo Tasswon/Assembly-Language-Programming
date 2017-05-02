@@ -1,4 +1,4 @@
-TITLE QuestionC				(QuestionC.asm)
+TITLE Linking Array Items				(QuestionC.asm)
 ; Uses a starting point to travel the index of a char array.
 ; Compares it's point with the value in the index array, and
 ; progresses to the next character based on this.

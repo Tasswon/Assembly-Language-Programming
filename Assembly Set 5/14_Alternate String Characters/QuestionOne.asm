@@ -1,4 +1,4 @@
-TITLE QuestionOne				(QuestionOne.asm)
+TITLE Alternate String Characters				(QuestionOne.asm)
 ;DESCRIPTION: Program takes two source strings and joins the two together
 ;by alternating characters one at a time from each string.
 

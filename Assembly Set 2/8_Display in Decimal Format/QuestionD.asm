@@ -1,4 +1,4 @@
-TITLE QuestionD			(QuestionD.asm)
+TITLE Display in Decimal Format						(QuestionD.asm)
 ;DESCRIPTION: The program displays an unsigned 8-bit binary value in decimal format 
 
 INCLUDE Irvine32.inc
